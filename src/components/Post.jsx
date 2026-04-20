@@ -1,5 +1,4 @@
 import profile from "../images/profile-picture.png";
-import small from "../images/small.jpg";
 
 
 let Post = (props) => {
