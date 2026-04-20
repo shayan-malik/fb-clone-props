@@ -1,9 +1,20 @@
+import Header from "./components/Header";
+import Aside from "./components/Aside";
+import Main from "./components/Main";
+
 import './App.css';
 
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Header />
+
+      <div className="container">        
+        <Aside />
+        <Main/>
+        <Aside />
+
+      </div>
     </>
   );
 }
