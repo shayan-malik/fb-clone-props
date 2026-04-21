@@ -8,6 +8,7 @@ import groups from "../images/groups.png";
 import marketplace from "../images/store.png";
 import events from "../images/events.png";
 import feeds from "../images/feeds.png";
+import page from "../images/facebook-page.png";
 import arrow from "../images/arrow.png";
 
 
@@ -90,10 +91,19 @@ let Aside = () => {
 
                     <li>
                         <div className="user">
+                            <img src={page} alt="" />
+                            <p>Pages</p>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div className="user">
                             <img src={arrow} alt="" className="arrow" />
                             <p>See More</p>
                         </div>
                     </li>
+
+                    
 
 
                     

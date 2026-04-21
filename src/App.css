@@ -58,6 +58,7 @@ header{
   background-color: #dcdee0;
   padding: 10px;
   border-radius: 20px;
+  cursor: pointer;
 }
 
 
@@ -65,7 +66,7 @@ header{
 
 
 aside{
-  width: 280px;
+  min-width: 280px;
   padding: 20px;
   position: sticky;
   top: 65px;
@@ -81,7 +82,7 @@ aside ul li .user img{
   display: flex;
   align-items: center;
   gap: 15px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 aside ul{
@@ -105,7 +106,7 @@ aside ul{
 
 
 main{
-  width: 650px;
+  min-width: 650px;
   padding-top: 20px;
 
 }
@@ -176,4 +177,44 @@ main{
   max-height: 600px;
   object-fit: cover;
   
+}
+
+
+
+.contacts{
+  display: flex;
+  gap: 20px;
+}
+
+.contacts img{
+  width: 20px !important;
+}
+
+.contlist{
+  display: flex;
+  justify-content: space-between;
+}
+
+.contlist p{
+  color: rgb(107, 107, 107);
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.verified{
+  width: 20px !important;
+  margin-left: -10px;
+}
+
+.friends{
+  gap: 10px !important;
+}
+
+
+.gap{
+  padding-left: 30px;
+}
+
+.gap img{
+  border-radius: 100px;
 }
