@@ -1,6 +1,5 @@
 // import profile from "../images/profile-picture.png";
 import meta from "../images/meta.png"
-import friends from "../images/friends.png";
 import b1 from "../images/b1.jpg";
 import b2 from "../images/b2.webp";
 import b3 from "../images/b3.jpg";
