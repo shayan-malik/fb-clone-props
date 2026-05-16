@@ -35,7 +35,7 @@ let Main = () => {
                 <Post name="Adventure" image="https://cdn.pixabay.com/photo/2020/04/22/12/06/adventure-5077760_1280.jpg"/>
                 <Post name="Inverse" image="https://content.pexels.com/images/canva/ai-generated-ad/off-theme/tropical_shoreline_with_two_curved_palm_trees-full.jpg"/>
                 <Post name="News" image="https://i.abcnewsfe.com/a/e274162d-2de0-4937-a82c-32aaa82001de/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9.jpg" />
-                <Post name="Ai" image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7AHUyfZavf1RDGMB5Lkm4CV5KiEChXz6Cg&s" />
+                <Post name="Ai" image="https://www.openaccessgovernment.org/wp-content/uploads/2025/06/iStock-2164746643-1068x610.jpg" />
 
             </main>
         </>
